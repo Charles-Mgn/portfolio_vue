@@ -1,0 +1,146 @@
+{
+  "work": {
+    "devTitle": "Dev projects",
+    "devProjects": [
+      {
+        "id": "0",
+        "title": "Architech",
+        "desc1": "A website made over the course of a 2 days challenge! From designing to the integration with Vue.js, everything was made in about 20 hours.",
+        "desc2": "Discover an unknown artist of great talent: Jean-Pierre Ugarte.",
+        "img": "static/img/architech.png",
+        "link": "https://architech.charlesmangin.fr"
+      },
+      {
+        "id": "1",
+        "title": "\"Maison des étudiants de Montbéliard\"",
+        "desc1": "The \"Maison des étudiants de Montbéliard\" is a student association based in Montbéliard, France. As of today, this association has only a presence on social medias. But as they grow in size, developing a website became a necessity.",
+        "desc2": "",
+        "img": "static/img/memo.png",
+        "link": "https://projetmemo.nikolag25.fr"
+      },
+      {
+        "id": "2",
+        "title": "AI, a not so bright futur?",
+        "desc1": "AI is all around us, yet few people are aware of its presence. Is AI a blessing or a malediction for mankind? Find the answer to this and much more on \"AI, a not so bright futur?\".",
+        "desc2": "",
+        "img": "static/img/ai-ansbf.jpeg",
+        "link": "https://architech.charlesmangin.fr"
+      },
+      {
+        "id": "3",
+        "title": "AlterinGames",
+        "desc1": "Ever wondered how you should spend your saturday afternoon? Maybe you've got some boardgames, but you've already played them a bit too much? With AlterinGames, rediscover your favorite boardgames with brand new house rules.",
+        "desc2": "",
+        "img": "static/img/alteringames.png",
+        "link": "https://architech.charlesmangin.fr"
+      },
+      {
+        "id": "4",
+        "title": "Mountain Climbers (a Wordpress Landing page)",
+        "desc1": "A small responsive landing page made with Wordpress.",
+        "desc2": "For this project, a model was given to us. The aim was to get as close as to the original as possible.",
+        "img": "static/img/mountain-climbers.png",
+        "link": "https://architech.charlesmangin.fr"
+      }
+    ],
+    "designTitle": "Design projects",
+    "designProjects": [
+      {
+        "id": "0",
+        "title": "CSS Landscapes",
+        "desc1": "I grew up in a city called Belfort. The aim of this small project was to showcase the main landmarks of Belfort, which includes The Lion of Belfort (made by Bartholdi, the creator of the Statue of Liberty), the Atria Hotel, and the Tower of the Miotte.",
+        "desc2": "",
+        "img": "static/img/landscape.png",
+        "link": "https://youtu.be/VNLcxtOo9d4"
+      },
+      {
+        "id": "1",
+        "title": "BUG DAYS",
+        "desc1": "BUG DAYS was a fictional e-sport event for which a created an animated logo as well as a landing page.",
+        "desc2": "",
+        "img": "static/img/bug-days.png",
+        "link": "https://youtu.be/R5D16f5Xb9A"
+      },
+      {
+        "id": "2",
+        "title": "Monogramme",
+        "desc1": "Creating an animation of your initials. What's better than a dragon? \uD83D\uDD25\uD83D\uDD25",
+        "desc2": "",
+        "img": "static/img/monogramme.png",
+        "link": "https://youtu.be/iBnIJ5YoUYE"
+      },
+      {
+        "id": "3",
+        "title": "Space Being (coming soon)",
+        "desc1": "A small project that I made using Adobe After Effects. I started with an existing image, modified it, and animated it to give it a false 3D perspective.",
+        "desc2": "",
+        "img": "static/img/space-being.png",
+        "link": ""
+      }
+    ]
+  },
+  "about": {
+    "who": {
+      "title": "Who I am",
+      "txt1": "My name is Charles Mangin, I'm 23 years old and I am a multimedia student based in France.",
+      "txt2": "I always liked to create stuff, and now I do it as a job!"
+    },
+    "what": {
+      "title": "What I do",
+      "txt1": "I am fairly polyvalent. I have a degree in management, I studied law, and I will soon have a degree in multimedia.",
+      "txt2": "Here's what I know:",
+      "multimedia": {
+        "title": "Multimedia",
+        "list": {
+          "item1": "Development: How to create websites from A to Z, using multiple programming languages (see below).",
+          "item2": "Design: How to create visual identities (including, but not limited to: mock-ups, landing pages, logos, animations).",
+          "item3": "Audio-visual: How to film and edit videos.",
+          "item4": "Communication: How to communicate on the internet, while keeping in mind SEO challenges."
+        }
+      },
+      "managementLaw": {
+        "title": "Management and law",
+        "list": {
+          "item1": "Team management: How to organize and manage projects and teams.",
+          "item2": "Communication & marketing: Analysing markets, choosing the best strategies to adopt based on the needs of the client.",
+          "item3": "Accounting & finance: Analysing costs, knowing how to keep up with a budget.",
+          "item4": "Law: French business laws and administrative laws."
+        }
+      }
+    },
+    "tools": {
+      "title": "Tools I use",
+      "programming": {
+        "title": "Programming languages",
+        "list": {
+          "item1": "HTML",
+          "item2": "CSS",
+          "item3": "JS (w/ Vue.js)",
+          "item4": "SQL",
+          "item5": "C#",
+          "item6": "PHP"
+        }
+      },
+      "softwares": {
+        "title": "Softwares",
+        "list": {
+          "item1": "JetBrains",
+          "item2": "Visual Studio",
+          "item3": "Wordpress",
+          "item4": "Adobe Suite",
+          "item5": "Microsoft Office Suite",
+          "item6": "Google Suite"
+        }
+      }
+    },
+    "contact": {
+      "title": "Want to get in touch?",
+      "list": {
+        "linkedin": "https://www.linkedin.com/in/charles-m-9014a4151/",
+        "gmail": "mailto:charlesmangin.98@gmail.com",
+        "github": "https://github.com/Ezellix",
+        "instagram": "https://www.instagram.com/charles_0229/"
+      }
+    }
+  }
+}
